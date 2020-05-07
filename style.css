@@ -1,1 +1,21 @@
-
+#ext-navbar{
+    overflow:hidden;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background:rgba(40,40,40,0.5);
+    display:flex;
+    justify-content:center;
+    z-index: 99999;
+}
+#ext-navbar div{
+    color:#F2F2F2;
+    text-align:center;
+    padding:8px;
+    font-size:17px;
+    width:10%;
+}
+#ext-navbar div:hover{
+     background-color:rgba(20,20,20,0.5);
+     color:#F2F2F2
+}
