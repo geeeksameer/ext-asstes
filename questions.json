@@ -3,84 +3,84 @@
         "title":"overall",
         "text":"on",
         "choice":["like","dislike"]
-    }
+    },
     "ext-question2":{
         "title":"price",
         "text":"on",
         "choice":["overpriced","underpriced","fair"]
-    }
+    },
     "ext-question3":{
         "title":"location"
         "text":"on"
         "choice":["like","neutral","dislike"]
-    }
+    },
     "ext-question4":{
         "title":"age of home"
         "text":"on"
         "choice":["like","neutral","dislike"]
-    }
+    },
     "ext-question5":{
         "title":"interior style"
         "text":"on"
         "choice":["like","neutral","dislike"]
-    }
+    },
     "ext-question6":{
         "title":"floorplan"
         "text":"on"
         "choice":["like","neutral","dislike"]
-    }
+    },
     "ext-question7":{
         "title":"kitchen"
         "text":"on"
         "choice":["like","neutral","dislike"]
-    }
+    },
     "ext-question8":{
         "title":"flooring"
         "text":"on"
         "choice":["like","neutral","dislike"]
-    }
+    },
     "ext-question9":{
         "title":"flooring"
         "text":"on"
         "choice":["like","neutral","dislike"]
-    }
+    },
     "ext-question10":{
         "title":"special features"
         "text":"on"
         "choice":["like","neutral","dislike"]
-    }
+    },
     "ext-question11":{
         "title":"lot size"
         "text":"on"
         "choice":["perfect","too small","more than needed"]
-    }
+    },
     "ext-question12":{
         "title":"HOA fee"
         "text":"on"
         "choice":["like","neutral","dislike"]
-    }
+    },
     "ext-question13":{
         "title":"area"
         "text":"on"
         "choice":["perfect","too small","more than needed"]
-    }
+    },
     "ext-question14":{
         "title":"parking"
         "text":"on"
         "choice":["perfect","too small","more than needed"]
-    }
+    },
     "ext-question15":{
         "title":"pros"
         "text":"on"
-    }
+    },
     "ext-question16":{
         "title":"cons"
         "text":"on"
-    }
+    },
     "ext-question17":{
         "title":"other"
         "text":"on"
-    }
+    },
     "ext-question18":{
         "title":"schedule a tour"
         "text":"on"
