@@ -1,1 +1,116 @@
-
+{
+    "ext-question1":{
+        "title":"overall"
+        "text":"on"
+        "choice1":"like"
+        "choice2":"dislike"
+    }
+    "ext-question2":{
+        "title":"price"
+        "text":"on"
+        "choice1":"overpriced"
+        "choice2":"underpriced"
+        "choice3":"fair"
+    }
+    "ext-question3":{
+        "title":"location"
+        "text":"on"
+        "choice1":"like"
+        "choice2":"neutral"
+        "choice3":"dislike"
+    }
+    "ext-question4":{
+        "title":"age of home"
+        "text":"on"
+        "choice1":"like"
+        "choice2":"neutral"
+        "choice3":"dislike"
+    }
+    "ext-question5":{
+        "title":"interior style"
+        "text":"on"
+        "choice1":"like"
+        "choice2":"neutral"
+        "choice3":"dislike"
+    }
+    "ext-question6":{
+        "title":"floorplan"
+        "text":"on"
+        "choice1":"like"
+        "choice2":"neutral"
+        "choice3":"dislike"
+    }
+    "ext-question7":{
+        "title":"kitchen"
+        "text":"on"
+        "choice1":"like"
+        "choice2":"neutral"
+        "choice3":"dislike"
+    }
+    "ext-question8":{
+        "title":"flooring"
+        "text":"on"
+        "choice1":"like"
+        "choice2":"neutral"
+        "choice3":"dislike"
+    }
+    "ext-question9":{
+        "title":"flooring"
+        "text":"on"
+        "choice1":"like"
+        "choice2":"neutral"
+        "choice3":"dislike"
+    }
+    "ext-question10":{
+        "title":"special features"
+        "text":"on"
+        "choice1":"like"
+        "choice2":"neutral"
+        "choice3":"dislike"
+    }
+    "ext-question11":{
+        "title":"lot size"
+        "text":"on"
+        "choice1":"perfect"
+        "choice2":"too small"
+        "choice3":"more than needed"
+    }
+    "ext-question12":{
+        "title":"HOA fee"
+        "text":"on"
+        "choice1":"like"
+        "choice2":"neutral"
+        "choice3":"dislike"
+    }
+    "ext-question13":{
+        "title":"area"
+        "text":"on"
+        "choice1":"perfect"
+        "choice2":"too small"
+        "choice3":"more than needed"
+    }
+    "ext-question14":{
+        "title":"parking"
+        "text":"on"
+        "choice1":"perfect"
+        "choice2":"too small"
+        "choice3":"more than needed"
+    }
+    "ext-question15":{
+        "title":"pros"
+        "text":"on"
+    }
+    "ext-question16":{
+        "title":"cons"
+        "text":"on"
+    }
+    "ext-question17":{
+        "title":"other"
+        "text":"on"
+    }
+    "ext-question18":{
+        "title":"schedule a tour"
+        "type":"3choice"
+        "text":"on"
+    }
+}
