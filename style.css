@@ -1,8 +1,9 @@
 #ext-navbar{
     overflow:hidden;
     position:fixed;
-    bottom:0;
-    width:100%;
+    bottom:auto;
+    right: auto;
+    width:60%;
     background:rgba(40,40,40,0.5);
     display:flex;
     justify-content:center;
