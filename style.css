@@ -13,3 +13,9 @@
 #ext-body{
 	filter: blur(10px);
 }
+.star{
+	content:url("asset.png");
+	width:25px;
+	height:25px;
+	display: inline-block;
+}
