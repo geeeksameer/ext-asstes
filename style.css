@@ -2,8 +2,9 @@
     overflow:hidden;
     position:fixed;
     bottom:auto;
-    right: auto;
+    right:auto;
     width:60%;
+    height:30%
     background:rgba(40,40,40,0.5);
     display:flex;
     justify-content:center;
