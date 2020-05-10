@@ -3,7 +3,7 @@
         {
            "title":"overall",
            "text":"on",
-           "choice":["like","dislike"]
+           "choice":10
         },
     "question2":
         {
