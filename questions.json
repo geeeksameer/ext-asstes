@@ -97,11 +97,5 @@
         {
             "title":"other",
             "text":"on"
-        },
-    "question18":
-        {
-            "title":"schedule a tour",
-            "text":"on",
-            "choice":["yes","no","maybe"]
         }
 }
