@@ -19,3 +19,11 @@
 	height:25px;
 	display: inline-block;
 }
+.question{
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 12px;
+	letter-spacing: -0.6px;
+	word-spacing: -0.6px;
+	color: #FFFFFF;
+	font-weight: 700;
+}
