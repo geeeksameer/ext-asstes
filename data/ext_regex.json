@@ -9,12 +9,14 @@
 		"street_address":
 		{
 			"type":"dom",
-			"value":"ds-address-container::0"
+			"value":"ds-address-container",
+			"index":"0"
 		},
 		"city_address":
 		{
 			"type":"dom",
-			"value":"ds-address-container::1"
+			"value":"ds-address-container",
+			"index":"1"
 		},
 		"construction_year":
 		{
@@ -24,17 +26,20 @@
 		"area":
 		{
 			"type":"dom",
-			"value":"ds-bed-bath-living-area-header::0::4::0"
+			"value":"ds-bed-bath-living-area-header",
+			"index":"0::4::0"
 		},
 		"bedroom":
 		{
 			"type":"dom",
-			"value":"ds-bed-bath-living-area-header::0::3::0"
+			"value":"ds-bed-bath-living-area-header",
+			"index":"0::3::0"
 		},
 		"bathroom":
 		{
 			"type":"dom",
-			"value":"ds-bed-bath-living-area-header::0::0::0"
+			"value":"ds-bed-bath-living-area-header"
+			"index":"0::0::0"
 		}
 	}
 }
