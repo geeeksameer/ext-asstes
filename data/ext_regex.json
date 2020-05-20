@@ -1,1 +1,40 @@
-
+{
+	"zillow":
+	{
+		"price":
+		{
+			"type":"dom",
+			"value":"ds-value"
+		}
+		"street_address":
+		{
+			"type":"dom",
+			"value":"ds-address-container::0"
+		}
+		"city_address":
+		{
+			"type":"dom",
+			"value":"ds-address-container::1"
+		}
+		"construction_year":
+		{
+			"type":"regex",
+			"value":"(?:Year built:<\/span><span class=\"ds-body ds-home-fact-value\">)(.*?)(?:<)"
+		}
+		"area":
+		{
+			"type":"dom",
+			"value":"ds-bed-bath-living-area-header::0::4::0"
+		}
+		"bedroom":
+		{
+			"type":"dom",
+			"value":"ds-bed-bath-living-area-header::0::3::0"
+		}
+		"bathroom":
+		{
+			"type":"dom",
+			"value":"ds-bed-bath-living-area-header::0::0::0"
+		}
+	}
+}
