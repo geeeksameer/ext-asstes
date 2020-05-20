@@ -33,7 +33,7 @@
 		{
 			"type":"dom",
 			"value":"ds-bed-bath-living-area-header",
-			"index":"0::2::0"
+			"index":"0::2::0::0"
 		},
 		"bathroom":
 		{
