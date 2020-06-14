@@ -9,79 +9,79 @@
         {
             "title":"price",
             "text":"on",
-            "choice":["overpriced","underpriced","fair"]
+            "choice":10
         },
     "question3":
         {
             "title":"location",
             "text":"on",
-            "choice":["like","neutral","dislike"]
+            "choice":10
         },
     "question4":
         {
             "title":"age of home",
             "text":"on",
-            "choice":["like","neutral","dislike"]
+            "choice":10
         },
     "question5":
         {
             "title":"interior style",
             "text":"on",
-            "choice":["like","neutral","dislike"]
+            "choice":10
         },
     "question6":
         {
             "title":"floorplan",
             "text":"on",
-            "choice":["like","neutral","dislike"]
+            "choice":10
         },
     "question7":
         {
             "title":"kitchen",
             "text":"on",
-            "choice":["like","neutral","dislike"]
+            "choice":10
         },
     "question8":
         {
             "title":"flooring",
             "text":"on",
-            "choice":["like","neutral","dislike"]
+            "choice":10
         },
     "question9":
         {
             "title":"flooring",
             "text":"on",
-            "choice":["like","neutral","dislike"]
+            "choice":10
         },
     "question10":
         {
             "title":"special features",
             "text":"on",
-            "choice":["like","neutral","dislike"]
+            "choice":10
         },
     "question11":
         {
             "title":"lot size",
             "text":"on",
-            "choice":["perfect","too small","more than needed"]
+            "choice":10
         },
     "question12":
         {
             "title":"HOA fee",
             "text":"on",
-            "choice":["like","neutral","dislike"]
+            "choice":10
         },
     "question13":
         {
             "title":"area",
             "text":"on",
-            "choice":["perfect","too small","more than needed"]
+            "choice":10
         },
     "question14":
         {
             "title":"parking",
             "text":"on",
-            "choice":["perfect","too small","more than needed"]
+            "choice":10
         },
     "question15":
         {
