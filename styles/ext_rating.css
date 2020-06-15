@@ -25,6 +25,9 @@
 	display:inline-block;
 	width: 150px;
 }
+.qinput{
+	width: 200px;
+}
 .answers{
 	display:inline-block;
 	font-family:"arial";
