@@ -1,101 +1,85 @@
 {
-    "question1":
+    "qoverall":
         {
            "title":"overall",
-           "text":"on",
+           "type":"rating",
            "choice":10
         },
-    "question2":
+    "qprice":
         {
             "title":"price",
-            "text":"on",
+            "type":"rating",
             "choice":10
         },
-    "question3":
+    "qlocation":
         {
             "title":"location",
-            "text":"on",
+            "type":"rating",
             "choice":10
         },
-    "question4":
+    "qhomeage":
         {
             "title":"age of home",
-            "text":"on",
+            "type":"rating",
             "choice":10
         },
-    "question5":
+    "qextstyle":
         {
             "title":"interior style",
-            "text":"on",
+            "type":"rating",
             "choice":10
         },
-    "question6":
+    "qintstyle":
+        {
+            "title":"interior style",
+            "type":"rating",
+            "choice":10
+        },
+    "qfloorplan":
         {
             "title":"floorplan",
-            "text":"on",
+            "type":"rating",
             "choice":10
         },
-    "question7":
+    "qkitchen":
         {
             "title":"kitchen",
-            "text":"on",
+            "type":"rating",
             "choice":10
         },
-    "question8":
+    "qflooring":
         {
             "title":"flooring",
-            "text":"on",
+            "type":"rating",
             "choice":10
         },
-    "question9":
-        {
-            "title":"flooring",
-            "text":"on",
-            "choice":10
-        },
-    "question10":
-        {
-            "title":"special features",
-            "text":"on",
-            "choice":10
-        },
-    "question11":
+    "qlot":
         {
             "title":"lot size",
-            "text":"on",
+            "type":"rating",
             "choice":10
         },
-    "question12":
+    "qhoa":
         {
             "title":"HOA fee",
-            "text":"on",
+            "type":"rating",
             "choice":10
         },
-    "question13":
+    "qsqft":
         {
             "title":"area",
-            "text":"on",
+            "type":"rating",
             "choice":10
         },
-    "question14":
+    "qparking":
         {
             "title":"parking",
-            "text":"on",
+            "type":"rating",
             "choice":10
         },
-    "question15":
+    "qcomments":
         {
-            "title":"pros",
-            "text":"on"
-        },
-    "question16":
-        {
-            "title":"cons",
-            "text":"on"
-        },
-    "question17":
-        {
-            "title":"other",
-            "text":"on"
+            "title":"comments",
+            "type":"text"
         }
 }
