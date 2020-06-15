@@ -6,8 +6,8 @@
 	left: 50%;
 	top: 50%;
 	transform: translate(-50%,-50%);
-	background-color: rgba(200,200,200,0.95);
-	box-shadow: 0px 0px 20px 20px rgba(88,88,88,0.95);
+	background-color: rgba(230,230,230,0.95);
+	box-shadow: 0px 0px 20px 20px rgba(200,200,200,0.95);
 	z-index:99999;
 }
 #ext-body{
@@ -40,4 +40,16 @@
 }
 .star:hover{
 	filter:invert(100%);
+}
+.ext-button{
+	width: 100px;
+	height: 25px;
+	text-align: center;
+	display: inline-block;
+}
+#bookit{
+	background: #11ff11;
+}
+#cancel{
+	background: #ff1111;
 }
