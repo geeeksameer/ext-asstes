@@ -1,7 +1,7 @@
 {
-	"mls":"<meta property=\"og:title\" content=\".*\|(.*)\">",
-	"price":"<meta property=\"product:price:amount\" content=\"([0-9.]+)\">",
-	"address":"<meta property=\"og:title\" content=\"(.*)\|",
+	"mls":"<meta property=\\\"og:title\\\" content=\\\".*\\|(.*)\\\">",
+	"price":"<meta property=\\\"product:price:amount\\\" content=\\\"([0-9.]+)\\\">",
+	"address":"<meta property=\\\"og:title\\\" content=\\\"(.*)\\|",
 	"city":"N/A",
 	"state":"N/A",
 	"zip":"N/A",
