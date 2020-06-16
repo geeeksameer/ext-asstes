@@ -15,7 +15,7 @@
 	"acres":"N/A",
 	"schooldist":"N/A",
 	"tax":"N/A",
-	"hoa":"Heating features: (.*)",
+	"hoa":"Heating features: (.*?)</",
 	"listdate":"regex",
 	"adom":"N/A",
 	"agent_name":"N/A",
