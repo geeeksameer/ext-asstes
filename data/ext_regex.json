@@ -14,7 +14,7 @@
 	"parking":"Parking:<.span><span class=\"ds-body ds-home-fact-value\">([0-9]+?) spaces",
 	"acres":"<span class=\"Text-aiai24-0 iUFtIX\">Lot size: (.*?) acres<.span>",
 	"schooldist":"<span class=\"ds-school-value ds-body-small\">(.*?)<.span>",
-	"tax":"<input type=\"text\" id=\"property-tax\" class=\"Input-sc-4ry0fw-0 jbZScm\" value="(.*?)">",
+	"tax":"<input type=\"text\" id=\"property-tax\" class=\"Input-sc-4ry0fw-0 jbZScm\" value=\"(.*?)\">",
 	"hoa":"<span class=\"ds-standard-label ds-home-fact-label\">Heating:<.span><span class=\"ds-body ds-home-fact-value\">(.*?)<.span>",
 	"listdate":"N/A",
 	"adom":"N/A",
