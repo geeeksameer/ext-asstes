@@ -1,24 +1,64 @@
 .ext-container{
-	background: #F4F4F4;
 	width: 298px;
 	height: 298px;
-	border: 1px solid black;
+	border: 1px solid #FFFFFF;
 	overflow: hidden;
+	background-color: #DDFFDD;
 }
 .ext-container *{
 	width: 70%;
 	height: 30px;
-	margin-top: 7px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	text-align: center;
+	text-align: center;	
 }
-.ext-container :first-child{
-	margin-top: 75px;
+.ext-container:first-child{
+	padding-top: 35px;
 }
-.ext-interface {
+.ext-interface{
+	background-color: #DDFFDD;
 	overflow: hidden;
 	width:300px;
 	height:300px;
+}
+.ext-interface input[type=text]{
+	width: 70%;
+	margin: auto;
+	margin-top: 10px;
+	border: none;
+	border-radius: 17px;
+	background-color: #FFFFFF;
+	color: #00DD33;
+	padding-left: 10px;
+	text-align: left;
+}
+.ext-interface input[type=text]:focus{
+	border: 1px solid #00DD33;	
+	background-color: #00DD33;
+	color: #FFFFFF;
+}
+.ext-interface div input[id=signup],.ext-interface div input[id=forgot]{
+	margin-top: 10px;
+	border-radius: 17px;
+	border: 1px solid #FFFFFF;	
+	background-color: #00AA44;
+	color: #FFFFFF;
+	width: 47%;
+	display: inline;
+}
+.ext-interface input[value=Login]{
+	margin-top: 10px;
+	border-radius: 17px;
+	border: 1px solid #FFFFFF;	
+	background-color: #00BB33;
+	color: #FFFFFF;
+}
+.ext-interface input[value=Login]:focus{	
+	background-color: #449944;
+	color: #FFFFFF;
+}
+.ext-interface div input[id=signup]:hover,.ext-interface div input[id=forgot]:hover{
+	background-color: #226622;
+	color: #FFFFFF;
 }
