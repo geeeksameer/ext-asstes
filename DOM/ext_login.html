@@ -1,9 +1,32 @@
-<div class="ext-container">
-	<input type="text" id="usr" name="usr" placeholder="Email Address">
-	<input type="text" id="pwd" name="pwd" placeholder="Password">
-	<input type="submit" id="login" value="Login">
-	<div>
-		<input type="submit" id="signup" value="Sign Up">
-		<input type="submit" id="forgot" value="Password?">
+<div id="ext_container">
+	<div class="login-container">
+		<div class=segment id="login">
+			<div class="create">
+				<div class="logo"></div>
+				<div class="create_text">
+					<i class="arrow"></i>
+					create new account
+				</div>
+			</div>
+			<div class="heading">
+				Sign In
+			</div>
+			<div class="input">
+				<input type="text" placeholder="Email Address" id="usr">
+			</div>
+			<div class="input">
+				<input type="password" placeholder="Password" id="pwd">
+			</div>
+			<div class="input">
+				<div class="option">	
+					<input id="check" type="checkbox" class="check" checked>
+					<label for="check">Remember</label>
+					<a href="#forgot">Forgot Password?</a>
+				</div>
+			</div>
+			<div class="input">
+				<input type="submit" value="Login" id="login_button">
+			</div>
+		</div>
 	</div>
 </div>
