@@ -1,0 +1,86 @@
+	body{
+		margin: 0;
+		color: #6a6f8c;
+		background: #00AA77;
+	}
+	.login-container{
+		width: 100%;
+		margin: auto;
+		max-width: 525px;
+		height: 400px;
+		position: relative;
+		background: rgba(240,240,240,1);
+		box-shadow: 0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+	}
+	.segment{
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		position: absolute;
+		//transform: rotateY(180deg);
+		backface-visibility: hidden;
+		transition: all .4s linear;
+	}
+	.input{
+		margin: auto;
+		margin-bottom: 15px;
+		width: 100%;
+		display: block;
+		border: none;
+		text-align: center;
+	}
+	.create{
+		margin-top: 10px;
+		margin-right: 5px;
+		margin-left: 5px;
+		color: #333333;
+		font-size: 15px;
+	}
+	.create_text{
+		float: right;
+	}
+	.logo{
+		width: 100px;
+		height: 50px;
+		background: #00ff00;
+		float: left;
+	}
+	.arrow{
+		margin-right: 5px;
+		border: solid #333333;
+		border-width: 0 3px 3px 0;
+		display: inline-block;
+		padding: 3px;
+		transform: rotate(-45deg);
+	}
+	.heading{
+		margin-top: 60px;
+		margin-bottom: 30px;
+		font-size: 22px;
+		text-align: center;
+		color: #00AA77;
+	}
+	input[type="password"],input[type="text"]{
+		border:1px solid #00AA77;
+		padding: 10px 10px;
+		border-radius: 25px;
+		width: 65%;
+	}
+	input[type="submit"]{
+		border:1px solid #0077AA;
+		padding: 10px 10px;
+		border-radius: 25px;
+		width: 50%;
+		background: #00AA77;
+		color: #ffffff;
+	}
+	.option{
+		width: 65%;
+		margin: auto;
+		text-align: left;
+	}
+	a{
+		float: right;
+		color: #333333;
+	}
