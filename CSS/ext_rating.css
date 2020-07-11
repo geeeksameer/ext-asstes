@@ -7,7 +7,7 @@
 		left:0;
 		right:0;
 		bottom:0;
-		z-index: 9999999;
+		z-index:9999999;
 	}
 	.ext_first{
 		width:10%;
@@ -19,53 +19,53 @@
 	}
 	.ext_first span{
 		text-align:center;
-		padding-top: 5px;
-		display: block;
-		color: #ffffff;
-		margin: auto;
+		padding-top:5px;
+		display:block;
+		color:#ffffff;
+		margin:auto;
 	}
 	.ext_button{
-		width: 45%;
-		border: 1px solid black;
-		margin-left: auto;
-		margin-right: auto;
-		color: #ffffff;
+		width:45%;
+		border:1px solid black;
+		margin-left:auto;
+		margin-right:auto;
+		color:#ffffff;
 	}
 	.ext_second{
 		width:70%;
 		background:rgba(16,16,16,0.6);
-		margin: auto;
+		margin:auto;
 		margin-top:100px;
 		padding:20px 20px 20px 20px;
-		cursor: default;
+		cursor:default;
 		display:none;
 	}
 	.ext_int{
-		margin: auto;
-		width: 750px;
+		margin:auto;
+		width:750px;
 	}
 	.question{
 		margin-top:5px;
 		height:55px;
-		text-align: center;
-		width: 360px;
-		margin-left: auto;
-		margin-right: auto;
-		display: inline-block;
+		text-align:center;
+		width:360px;
+		margin-left:auto;
+		margin-right:auto;
+		display:inline-block;
 	}
 	.question *{
-		margin-top: 5px;
+		margin-top:5px;
 		color:#ffffff;
 		margin:auto;
 	}
 	.button2{
 		margin-top:5px;
-		text-align: center;
+		text-align:center;
 	}
 	.button2 *{
 		border-radius:200px 200px 200px 200px;
 		border:1px solid #00ff22;
-		background-color: #00ff66;
+		background-color:#00ff66;
 		width: 100px;
 	}
 	.option{
@@ -78,6 +78,10 @@
 		padding-top:3px;
 	}
 	.option:hover{
-		border-color: #ffffff;
-		background-color: #00ff66;
+		border-color:#ffffff;
+		background-color:#00ff66;
+	}
+	.label{
+		width:80px;
+		margin-right:5px;
 	}
