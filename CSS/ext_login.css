@@ -44,6 +44,9 @@
 		height: 50px;
 		float: left;
 		background: url(https://raw.githubusercontent.com/geeeksameer/ext-asstes/master/assets/with-name.png);
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: contain;
 	}
 	.arrow{
 		margin-right: 5px;
