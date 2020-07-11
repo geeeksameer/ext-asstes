@@ -77,15 +77,15 @@
             "type":"rating",
             "choice":10
         },
-    "qcomments":
-        {
-            "title":"comments",
-            "type":"text"
-        },
     "qbook":
         {
             "title":"comments",
             "type":"option",
             "labels":["Yes","Maybe","No"]
+        },
+    "qcomments":
+        {
+            "title":"comments",
+            "type":"text"
         }
 }
