@@ -74,7 +74,7 @@
 		width:30px;
 		height:30px;
 		display:inline-block;
-		margin-left:auto;
+		margin-left:3px;
 	}
 	.option:hover{
 		border-color:#ffffff;
