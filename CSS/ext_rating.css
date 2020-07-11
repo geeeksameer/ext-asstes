@@ -10,7 +10,6 @@
 		z-index: 9999999;
 	}
 	.ext_first{
-		//box-shadow: 0px 0px 20px 20px rgba(16,16,16,0.6);
 		width:10%;
 		height:10%;
 		bottom:5px;
@@ -26,7 +25,6 @@
 		margin: auto;
 	}
 	.ext_button{
-		background:rgba(16,16,16,0.6);
 		width: 45%;
 		border: 1px solid black;
 		margin-left: auto;
@@ -36,12 +34,11 @@
 	.ext_second{
 		width:70%;
 		background:rgba(16,16,16,0.6);
-		//box-shadow:0px 0px 20px 20px rgba(16,16,16,0.6);
 		margin: auto;
 		margin-top:100px;
 		padding:20px 20px 20px 20px;
 		cursor: default;
-		//display:none;
+		display:none;
 	}
 	.ext_int{
 		margin: auto;
