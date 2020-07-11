@@ -18,7 +18,6 @@
 		right: 0;
 		bottom: 0;
 		position: absolute;
-		//transform: rotateY(180deg);
 		backface-visibility: hidden;
 		transition: all .4s linear;
 	}
@@ -43,8 +42,8 @@
 	.logo{
 		width: 100px;
 		height: 50px;
-		background: #00ff00;
 		float: left;
+		background: url(https://raw.githubusercontent.com/geeeksameer/ext-asstes/master/assets/with-name.png);
 	}
 	.arrow{
 		margin-right: 5px;
