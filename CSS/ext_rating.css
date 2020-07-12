@@ -87,13 +87,13 @@
 	}
 	.button2 *{
 		border-radius:200px 200px 200px 200px;
-		border:1px solid #90c056;
+		border:1px solid #54b579;
 		background-color:#54b579;
 		width: 100px;
 	}
 	.option{
 		border-radius:200px 200px 200px 200px;
-		border:1px solid #90c056;
+		border:1px solid #54b579;
 		width:30px;
 		height:30px;
 		display:inline-block;
@@ -101,7 +101,7 @@
 	}
 	.option:hover{
 		border-color:#ffffff;
-		background-color:#90c056;
+		background-color:#54b579;
 	}
 	.label{
 		width:80px;
