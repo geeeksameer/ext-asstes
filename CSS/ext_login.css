@@ -88,7 +88,16 @@
 		width: 50%;
 		background: #00AA77;
 		color: #ffffff;
-	}
+		}
+	updated-logo{
+		border:1px solid #0077AA;
+		padding: 10px 10px;
+		border-radius: 25px;
+		font-size:16px;
+		width: 25%;
+		background: #00AA77;
+		color: #ffffff;
+		}
 	.option{
 		width: 65%;
 		margin: auto;
