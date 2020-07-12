@@ -4,7 +4,6 @@
 	"address":"I am interested in (.*)<.textarea>",
 	"city":"N/A",
 	"state":"N/A",
-	"zip":"N/A",
 	"built":"Year built:<.span><span class=\"ds-body ds-home-fact-value\">(.*?)<.span>",
 	"sqft":"<span class=\"ds-bed-bath-living-area\"><span>([0-9,]+?)<.span><span class=\"ds-summary-row-label-secondary\"> <!-- -->sqft",
 	"stories":"<span class=\"Text-aiai24-0 iUFtIX\">Stories: (.*?)<.span>",
