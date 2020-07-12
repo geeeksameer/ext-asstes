@@ -16,6 +16,7 @@
 		right:80px;
 		position:absolute;
 		background:rgba(16,16,16,0.6);
+		border-radius: 15px;
 	}
 	.ext_first span{
 		text-align:center;
@@ -48,6 +49,7 @@
 		padding:20px 20px 20px 20px;
 		cursor:default;
 		display:none;
+		border-radius: 25px;
 	}
 	.ext_int{
 		margin:auto;
