@@ -38,8 +38,8 @@
 		background-size: contain;
 		}
 	.logo-center{
-		width: 100px;
-		height: 50px;
+		width: 270px;
+		height: 135px;
 		margin-left: auto;
   		margin-right: auto;
 		background: url(https://raw.githubusercontent.com/geeeksameer/ext-asstes/master/assets/with-name.png);
@@ -108,9 +108,9 @@
 		width:80px;
 		margin-right:5px;
 	}
-	#comments{
+	#qcomments{
 		color:#ffffff;
 		background-color:RGBA(0,0,0,0);
-		margin-top:5px;
+		margin: auto;
 		box-shadow: none;
  	}
