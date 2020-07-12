@@ -1,7 +1,7 @@
 	.ext_container{
 		font-family: "Segoe UI", Tahoma, sans-serif;
     		font-size: 100%;
-		margin-top:25px;
+		margin-top:30px;
 		width:100%;
 		height:100%;
 		background:rgba(255,255,255,0);
@@ -55,10 +55,10 @@
 		color:#54b579;
 	}
 	.ext_second{
-		width:85%;
+		width:70%;
 		background:rgba(16,16,16,0.6);
 		margin:auto;
-		padding:20px 20px 20px 20px;
+		padding:20px 10px 10px 20px;
 		cursor:default;
 		display:none;
 		border-radius: 25px;
