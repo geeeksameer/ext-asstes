@@ -6,6 +6,7 @@
 	.login-container{
 		border-radius: 13px;
 		max-width: 560px;
+		margin-bottom: 100px;
 		height: 325px;
 		position: relative;
 		text-align: center;
