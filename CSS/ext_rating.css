@@ -1,7 +1,7 @@
 	.ext_container{
 		font-family: "Segoe UI", Tahoma, sans-serif;
     		font-size: 100%;
-		margin-top:75px;
+		margin-top:25px;
 		width:100%;
 		height:100%;
 		background:rgba(255,255,255,0);
@@ -68,7 +68,7 @@
 		width:750px;
 	}
 	.question{
-		margin:5px 5px;
+		margin:3px 3px;
 		height:55px;
 		text-align:center;
 		width:360px;
@@ -77,9 +77,8 @@
 		display:inline-block;
 	}
 	.question *{
-		margin:5px 5px;
+		margin:3px 3px;
 		color:#ffffff;
-		margin:auto;
 	}
 	.button2{
 		margin-top:5px;
