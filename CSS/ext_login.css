@@ -5,11 +5,13 @@
 	}
 	.login-container{
 		width: 100%;
+		padding-left: 100px;
+		padding-right: 100px;
 		border-radius: 13px;
-		max-width: 600px;
-		padding: 20px 20px 20px 20px;
+		max-width: 560px;
 		height: 325px;
 		position: relative;
+		text-align: center;
 		background: rgba(240,240,240,1);
 		box-shadow: 0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
 	}
