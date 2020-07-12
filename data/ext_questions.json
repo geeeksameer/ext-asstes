@@ -1,91 +1,91 @@
 {
     "qoverall":
         {
-           "title":"overall",
+           "title":"Overall",
            "type":"rating",
            "choice":10
         },
     "qprice":
         {
-            "title":"price",
+            "title":"Price",
             "type":"rating",
             "choice":10
         },
     "qlocation":
         {
-            "title":"location",
+            "title":"Location",
             "type":"rating",
             "choice":10
         },
     "qhomeage":
         {
-            "title":"age of home",
+            "title":"Age of Home",
             "type":"rating",
             "choice":10
         },
     "qextstyle":
         {
-            "title":"interior style",
+            "title":"Interior Style",
             "type":"rating",
             "choice":10
         },
     "qintstyle":
         {
-            "title":"interior style",
+            "title":"Exterior Style",
             "type":"rating",
             "choice":10
         },
     "qfloorplan":
         {
-            "title":"floorplan",
+            "title":"Floorplan",
             "type":"rating",
             "choice":10
         },
     "qkitchen":
         {
-            "title":"kitchen",
+            "title":"Kitchen",
             "type":"rating",
             "choice":10
         },
     "qflooring":
         {
-            "title":"flooring",
+            "title":"Flooring",
             "type":"rating",
             "choice":10
         },
     "qlot":
         {
-            "title":"lot size",
+            "title":"Lot Size",
             "type":"rating",
             "choice":10
         },
     "qhoa":
         {
-            "title":"HOA fee",
+            "title":"HOA Fee",
             "type":"rating",
             "choice":10
         },
     "qsqft":
         {
-            "title":"area",
+            "title":"Area",
             "type":"rating",
             "choice":10
         },
     "qparking":
         {
-            "title":"parking",
+            "title":"Parking Space",
             "type":"rating",
             "choice":10
         },
     "qbook":
         {
-            "title":"comments",
+            "title":"Want a Tour?",
             "type":"option",
             "labels":["Yes","Maybe","No"]
         },
     "qcomments":
         {
-            "title":"comments",
+            "title":"Comments? (optional)",
             "type":"text"
         }
 }
