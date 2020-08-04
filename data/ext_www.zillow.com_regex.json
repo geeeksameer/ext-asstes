@@ -19,6 +19,6 @@
 	"agent_name":"N/A",
 	"agent_phone":"N/A",
 	"agent_email":"N/A",
-	"mls":"<span class=\"Text-aiai24-0 iUFtIX\">MLS ID: <!-- -->(.*?)<.span>",
+	"mls":"<span class=\"Text-aiai24-0 ihhPyX\">MLS ID: <!-- -->(.*?)<.span>",
 	"zip":"<picture class=\"sc-iwsKbI ZTqHd media-stream-photo media-stream-photo--loaded\"><source type=\"image\/webp\" srcset=\"(?:.*?)><img src=\"(.*?)\" alt=\"\"><\/picture>"
 }
