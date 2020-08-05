@@ -68,8 +68,12 @@
 		display:none;
 		border-radius: 25px;
 		z-index:99999;
-		position:absolute;
-		top:30px;
+    		height: fit-content;
+    		position: absolute;
+    		top: 5px;
+    		left: 0;
+    		right: 0;
+    		bottom: 0;
 	}
 	.ext_int{
 		margin:auto;
