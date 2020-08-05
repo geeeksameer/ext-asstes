@@ -13,7 +13,7 @@
 		position:absolute;
 		background:rgba(16,16,16,0.6);
 		border-radius: 9px;
-		z-index:9999;
+		z-index:99999;
 	}
 	.ext_first span{
 		text-align:center;
@@ -67,7 +67,7 @@
 		cursor:default;
 		display:none;
 		border-radius: 25px;
-		z-index:9999;
+		z-index:99999;
 		position:absolute;
 		top:30px;
 	}
