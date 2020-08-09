@@ -1,4 +1,52 @@
-	<div class="welcome-container">
+<html><head>
+			
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	</head>
+
+	<body>
+
+	<div id="treePopup" class="translate_please">
+
+		<div class="header">
+			<a href="https://treeclicks.com" target="_blank"><img src="https://raw.githubusercontent.com/geeeksameer/ext-asstes/master/assets/with-name.png" alt="TreeClicks" class="logo"></a>
+			<a href="../options.html" target="_blank" class="options-btn">
+				<img src="../../icons/settings.png" alt="Settings">
+			</a>
+			<a href="../options.html" target="_blank" id="bell" class="notifications-btn" style="display:none;">
+				<img src="../../icons/bell.png" alt="Notifications">
+			</a>
+		</div>
+
+		<div class="container stats">
+			<h1>Hi <span id="name">Sameer</span>, your stats:</h1>
+
+			<a class="badge badge-green" href="https://www.treeclicks.com/account" target="_blank"><span id="trees-amount">0</span> trees planted</a>
+			<a class="badge badge-purple" id="trees-plantable-badge" style="display:none" href="https://www.treeclicks.com/account" target="_blank"><span id="trees-plantable-amount">0</span> pending trees</a>
+		</div>
+
+		<div id="login-status"><span class="logged-in">Logged in as: Sameer - <a href="https://www.treeclicks.com/logout" target="_blank">Logout</a></span></div>
+
+		<div id="tab-status">There is no partner programme with this page, you can't shop for trees here. See the  <a href="https://www.treeclicks.com/shops" target="_blank">participating shops</a>.</div>
+
+		<script src="../html_localization.js"></script>
+		<script src="popup.js"></script>
+	</div>
+
+	<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<defs>
+			<symbol id="icon-check" viewBox="0 0 32 32">
+				<title>check</title>
+				<path d="M16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16c8.8 0 16-7.2 16-16s-7.2-16-16-16v0zM12.8 24l-8-8 2.24-2.24 5.76 5.76 12.16-12.16 2.24 2.24-14.4 14.4z"></path>
+			</symbol>
+		</defs>
+	</svg>
+
+
+	</body></html>
+
+<!--	
+<div class="welcome-container">
 		<div class=segment id="welcome">
 			<div class="msg m1">Welcome, <span class="content_email">Sameer</span></div>
 			<div class="msg m2">Wherever you are, we hope you're staying safe.</div>
@@ -8,4 +56,6 @@
 		<div class=segment id="agent">
 			<input type="submit" value="Logout" id="logout_button">
 		</div>
-	</div>
+	</div> -->
+
+
