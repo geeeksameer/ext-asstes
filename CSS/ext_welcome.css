@@ -24,7 +24,7 @@
 				color: #ffffff !important; padding: 15px 0; font-size: 17px; font-weight: bold; text-align: center; }
 			.logo { width: 130px; text-align: center; }
 			.home-btn { position: absolute; top: 24px; left: 25px; }
-			.home-btn img { width: 22px; opacity: 0.7; }
+			.home-btn img { width: 22px;}
 			.options-btn { position: absolute; top: 24px; right: 25px; }
 			.options-btn img { width: 22px; opacity: 0.7; }
 			.notifications-btn { position: absolute; top: 26px; right: 57px; }
