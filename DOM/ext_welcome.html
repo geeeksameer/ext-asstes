@@ -2,6 +2,12 @@
 			
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<script>
+		chrome.storage.local.get(['user_fname'], function(result) {
+          		document.getElementById("name").innerHTML = result;
+        	});
+
+	</script>
 	</head>
 
 	<body>
