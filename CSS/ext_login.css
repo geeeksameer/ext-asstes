@@ -104,7 +104,11 @@
 		margin: auto;
 		text-align: left;
 	}
-	a{
+	.rightA{
 		float: right;
+		color: #333333;
+	}
+	.leftA{
+		float: left;
 		color: #333333;
 	}
